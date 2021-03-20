@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/manuelwendl/Dokumente/01_Universität/Engineering Informatics I/TicTacToe AI/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/manuelwendl/Dokumente/01_Universität/Engineering Informatics I/TicTacToe Human opponent/main.c
+stdio.h
+-
+stdlib.h
+-
+
